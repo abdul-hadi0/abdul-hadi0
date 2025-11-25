@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @abdul-hadi0
-- 👀 I’m interested in data analyzing 
-- 🌱 I’m currently learning data analytics course
-- 💞️ I’m looking to collaborate on data analytics related activities
-- 📫 How to reach me: alisargand0@gmail.com
+# Dubai Car Wash React Landing Page
 
-<!---
-abdul-hadi0/abdul-hadi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-      
+Steps to Run Locally
+1. Install Node.js
+2. npm install
+3. npm run dev
+
+Deploy on Vercel
+1. Upload folder to Vercel
+
+EmailJS Setup
+Replace IDs in src/App.jsx
